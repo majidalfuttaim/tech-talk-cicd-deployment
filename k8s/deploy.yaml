@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: tech-talk-web
-        image: 243060292047.dkr.ecr.eu-west-1.amazonaws.com/grid-extras:tech-talk-dev-1-0410212047
+        image: 243060292047.dkr.ecr.eu-west-1.amazonaws.com/grid-extras:tech-talk-dev-1-0510210531
         imagePullPolicy: IfNotPresent
 ---
 apiVersion: v1
